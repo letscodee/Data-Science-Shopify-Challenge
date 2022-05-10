@@ -1,4 +1,4 @@
-# Data_Science_Shopify_Challenge
+# Data Science Shopify Challenge
 
 Fall 2022 Data Science Intern Challenge 
 
